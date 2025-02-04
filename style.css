@@ -44,7 +44,7 @@ a{
     stroke-dasharray: 8% 29%;
     stroke-width: 5px;
     stroke-dashoffset: 1%;
-    animation: stroke-offset 5.5s infinite linear;
+    animation: stroke-offset 4.5s infinite linear;
 }
 
 .text:nth-child(1){
