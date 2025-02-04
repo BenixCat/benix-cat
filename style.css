@@ -53,22 +53,22 @@ a{
 }
 
 .text:nth-child(2){
-	stroke: #315b2c;
+	stroke: #1aff00;
 	animation-delay: -2s;
 }
 
 .text:nth-child(3){
-	stroke: #2f8f7f;
+	stroke: #00ffd5;
 	animation-delay: -3s;
 }
 
 .text:nth-child(4){
-	stroke: #2f8f7f;
+	stroke: #00c3ff;
 	animation-delay: -4s;
 }
 
 .text:nth-child(5){
-	stroke: #da2717;
+	stroke: #fffb00;
 	animation-delay: -5s;
 }
 
